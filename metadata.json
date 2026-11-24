@@ -1,0 +1,6 @@
+{
+  "name": "Tiny Transformer Observatory",
+  "description": "Browser-trainable miniature transformer with interactive WebGL2 2D and 3D vector, attention heatmap, activation pathway, and logit visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
